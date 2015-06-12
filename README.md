@@ -1,4 +1,4 @@
-# tutorial0_1
+# Hello World tutorial
 
 This is just a stupid tutorial.
 
